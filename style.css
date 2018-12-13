@@ -103,3 +103,23 @@ h1, h2, h3, h4, h5,h6 {
 p{
     display: block;
 }
+
+/*INDEX PAGE*//*INDEX PAGE*//*INDEX PAGE*//*INDEX PAGE*//*INDEX PAGE*//*INDEX PAGE*//*INDEX PAGE*/
+
+.index_head {
+    width: 100%;
+    height: 969px;
+    background: #000000 no-repeat top;
+}
+
+.index_photos_div{
+    width: 100%;
+    height: 969px;
+    background: #000000 no-repeat top;
+}
+
+.index_photos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
